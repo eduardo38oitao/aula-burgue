@@ -3,7 +3,6 @@
  padding: 0%;
 }
 header{
-    background-color: rgb(255, 255, 255);
     font-size: 30px;
     text-align: center;
     display: flex;
@@ -12,8 +11,31 @@ header{
 h1{
    padding: 0 300px 0 175px; 
    margin: 15px;
-   background-color: antiquewhite;
 }
 html{
-    background-color: antiquewhite;
+    background-color: rgb(147, 114, 114);
+}
+div{
+   text-align: center;
+   margin-top: 50px;
+   margin: 10px;
+}
+h2{
+    margin: 2%;
+}
+h3{
+    margin: 45px;
+}
+.imagem4{
+    width: 38%;
+    height: 40%;
+}
+.imagem3{
+    width: 24%;
+    height: 20%;
+}
+div{
+  margin-top: 1%;
+  padding: 1%;
+  font-size: 25px;
 }
